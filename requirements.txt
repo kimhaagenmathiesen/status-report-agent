@@ -1,0 +1,6 @@
+llama-index-core
+llama-index-llms-ollama
+pandas
+numpy
+matplotlib
+scipy
